@@ -6,7 +6,7 @@
 
 >Fitur Dagal tidak memberikan jaminan, baik tersurat maupun tersirat, dengan sehubungan dengan kinerja, keandalan, atau kesesuaian AMGAL untuk semua yang ditentukan tujuan. Fitur Dagal tidak menjamin bahwa perangkat lunak atau dokumentasinya akan memenuhi kebutuhan Anda. meskipun Fitur Dagal memiliki melakukan pengujian perangkat lunak secara menyeluruh dan meninjau dokumentasi, Fitur Dagal tidak memberikan jaminan apa pun bahwa perangkat lunak dan dokumentasinya bebas dari kesalahan. Fitur Dagal tidak akan menjadi bertanggung jawab atas segala kerusakan, insidental, langsung, tidak langsung atau konsekuensial, timbul sebagai akibat dari data yang rusak, biaya pemulihan, kerugian laba, dan ketiga klaim pihak. perangkat lunak dilisensikan "sebagaimana adanya". pembeli mengasumsikan risiko lengkap yang berasal dari penerapan program AMGAL, kualitas dan kinerja.
 
->Jika cacat fisik ditemukan dalam dokumentasi atau CD di yang AMGAL didistribusikan, Fitur Dagal akan menggantikan, tanpa biaya, dokumentasi atau CD dalam waktu 180 hari setelah pembelian, asalkan bukti pembelian disajikan.
+>Jikaa cacat fisik ditemukan dalam dokumentasi atau CD di yang AMGAL didistribusikan, Fitur Dagal akan menggantikan, tanpa biaya, dokumentasi atau CD dalam waktu 180 hari setelah pembelian, asalkan bukti pembelian disajikan.
 
 “Apakah perangkat lunak AMGAL benar-benar istimewa sehingga pengembangnya tidak mampu memenuhi tantangan untuk memastikan produk bebas bug?” lanjut saya teman. “Apakah paket perangkat lunak lain membatasi jaminan mereka dengan cara yang sama?”
 
